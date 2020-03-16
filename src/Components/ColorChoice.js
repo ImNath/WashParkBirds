@@ -1,0 +1,1 @@
+class ColorChoice extends React.Component
